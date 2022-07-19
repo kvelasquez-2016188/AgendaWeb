@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    background-color: #ffc4be;
+    color: #aab7b8;
+    padding: 3%;
+}
+
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+    background-color: #ffc4be;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 15px;
+}
+
+table{
+    width: 100%;
+}
+
+img{
+    width: 30%;
+    height: 30%;
+}
+.contenedor{
+    padding-left: 32rem ;
+}
+
+.button{
+    border: none;
+    width: 100%;
+    color: aliceblue;
+    font-size: 120%;
+    background: gray;
+    padding: 1% 5%;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    
+    
+}
+
+.button:hover{
+    background: cadetblue;
+}
+.boton{
+    text-align: right;
+}
+
